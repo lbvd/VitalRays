@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 #gui application
 #upgrade of at.py
-#contact me via E-Mail: lucabenjamin.d@gmail.com and check out my git hub page
+#contact me via E-Mail: lbvd@protonmail.com
+#
 
 import tkinter
 import time
